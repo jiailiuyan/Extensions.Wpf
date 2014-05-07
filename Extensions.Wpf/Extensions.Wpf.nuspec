@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Contains gestures, behaviors and value converters.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>wpf extensions gestures behaviors mouse wheel input command listbox scrollviewer scrolling expander animated font size auto</tags>
+  </metadata>
+</package>
