@@ -3,6 +3,8 @@ Extensions.WPF
 
 Note: still needs polishing such as documentation etc ...
 
+NuGet package : https://www.nuget.org/packages/Extensions.WPF/
+
 **Behaviors**
 
 AnimatedExpanderBehavior : animates the expansion of an Expander
